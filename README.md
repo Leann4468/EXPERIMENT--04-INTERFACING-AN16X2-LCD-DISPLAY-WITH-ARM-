@@ -115,9 +115,9 @@ C2
 Jump to second line, position 2
  
 ## Procedure:
- 1. click on STM 32 CUBE IDE, the following screen will appear 
+1. click on STM 32 CUBE IDE, the following screen will appear 
 
- 2. click on FILE, click on new stm 32 project 
+2. click on FILE, click on new stm 32 project 
 
 3. select the target to be programmed  as shown below and click on next 
 
@@ -237,7 +237,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif 
-
+```
 ## Output screen shots of proteus  :
 ![image](https://github.com/Leann4468/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121165979/2a044a36-c508-49d3-b76c-c0c4a87fff5f)
 
